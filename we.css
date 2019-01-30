@@ -1,0 +1,87 @@
+body
+{
+    background-color:#ddd8d8;
+    margin:0;
+
+    background-image:url(wq/5.jpg);
+
+    background-repeat: no-repeat;
+}
+header{
+    display:flex;
+    border:20px solid lightgoldenrodyellow;
+    background-color: lightgoldenrodyellow;
+
+}
+header img {
+width:90px;
+    height: 90px;
+
+}
+.hea{
+     text-align: center;
+    display: flex;
+   margin-left:60%;
+}
+.menu{
+        margin-right:2%;
+        margin-left:2%;
+    border: 10px solid lightcoral;
+    background-color: lightcoral;
+    padding: 1px;
+    display:flex ;
+
+    justify-content: space-around;
+}
+.menu a{
+        color: white;
+  text-decoration: none;
+
+}
+main{
+    font-family: serif;
+     font-size:35px;
+text-align: center;
+    margin-top: 15%;
+    color:lightcoral;
+}
+.main{
+    font-family:fantasy;
+    font-size:35px;
+    color:mediumvioletred;
+}
+
+figure img{
+    width: 90px;
+    height: 90px;
+
+}
+figcaption a{
+    color: #b50505;
+    text-decoration: none;
+    
+}
+figure{
+	max-width: 125px;
+        text-align: center;
+    font-size: 18px;
+}
+.odin{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+footer{
+ text-align:center;
+    color: gray;
+ 
+
+}
+.od{
+    margin-top: 35%;
+
+}
+.oy{
+    margin-top: 2%;
+}
