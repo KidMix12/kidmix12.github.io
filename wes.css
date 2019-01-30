@@ -12,7 +12,7 @@ header{
 .hea{
      text-align: center;
     display: flex;
-   margin-left:65%;
+   margin-left:59%;
     
 }
 header img {
@@ -45,13 +45,4 @@ width:90px;
     padding: 1%;
     width: 620px;
     height: 400px;
-}
-footer{
- text-align:center;
-    color: gray;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 80px;
 }
